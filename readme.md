@@ -5,5 +5,5 @@
 ## Tech Stacks
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-##Project
-*[practice](https://github.com/yuseong00/practice)
+## Project
+* [practice](https://github.com/yuseong00/practice)
